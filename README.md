@@ -8,8 +8,8 @@
 
 ### Google Collab
 
-Notebook [PySpark-PyConAr-2021](https://colab.research.google.com/drive/1w2LTuQQUPhQCdqzOYdvfymmpAtbLYPaX?usp=sharing)
-Carpeta [Notebook + archivo de ejemplo](https://drive.google.com/drive/folders/1DK96JqrgPjPZz7aoUntdZTMRwPambXV4?usp=sharing)
+- Notebook [PySpark-PyConAr-2021](https://colab.research.google.com/drive/1w2LTuQQUPhQCdqzOYdvfymmpAtbLYPaX?usp=sharing)
+- Carpeta [Notebook + archivo de ejemplo](https://drive.google.com/drive/folders/1DK96JqrgPjPZz7aoUntdZTMRwPambXV4?usp=sharing)
 
 ### Dataset 
 Spotify [Millions Playlist](https://www.kaggle.com/adityak80/spotify-millions-playlist)
