@@ -6,11 +6,12 @@
     - airflow
     - snowflake
 
-### Google Collab 
-    Notebook [PySpark-PyConAr-2021](https://colab.research.google.com/drive/1w2LTuQQUPhQCdqzOYdvfymmpAtbLYPaX?usp=sharing)
+### Google Collab
+
+Notebook [PySpark-PyConAr-2021](https://colab.research.google.com/drive/1w2LTuQQUPhQCdqzOYdvfymmpAtbLYPaX?usp=sharing)
 
 ### Dataset 
-    Spotify [Millions Playlist](https://www.kaggle.com/adityak80/spotify-millions-playlist)
+Spotify [Millions Playlist](https://www.kaggle.com/adityak80/spotify-millions-playlist)
 
 ### Temas
     - Apache Spark
@@ -26,9 +27,10 @@
 
 
 ### Fuentes 
-    - [Apache Spark](https://spark.apache.org)
-    - [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
-    - [Spark vs Pandas](https://towardsdatascience.com/spark-vs-pandas-part-4-recommendations-35fc554573d5)
+
+- [Apache Spark](https://spark.apache.org)
+- [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
+- [Spark vs Pandas](https://towardsdatascience.com/spark-vs-pandas-part-4-recommendations-35fc554573d5)
 
 
 ### Agradecimientos
@@ -40,4 +42,5 @@
 
 
 ### Chivo
-    - [ofertas laborales](https://enlyft.bamboohr.com/jobs/)
+
+[Ofertas laborales](https://enlyft.bamboohr.com/jobs/)
