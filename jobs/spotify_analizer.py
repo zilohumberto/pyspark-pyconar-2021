@@ -16,6 +16,7 @@ SF_SOURCE_NAME = ""
 
 BLOB_ACCOUNT_KEY = ""
 BLOB_ACCOUNT_NAME = ""
+BLOB_ACCOUNT_URL = ""
 BLOB_CONTAINER_NAME = ""
 # endregion
 
@@ -29,6 +30,7 @@ def is_mounted(path):
 def mount_data():
     azure_key = BLOB_ACCOUNT_KEY  # clave del blob account
     azure_sa = BLOB_ACCOUNT_NAME  # nombre del blob account
+    azure_sa_url = BLOB_ACCOUNT_URL
     to_mount = BLOB_CONTAINER_NAME  # container name on blob storage
     mount_point = f"/mnt/{to_mount}/"
 
@@ -36,7 +38,7 @@ def mount_data():
         dbutils.fs.mount(
             source=f"wasbs://{to_mount}@{azure_sa}.blob.core.windows.net/",
             mount_point=mount_point,
-            extra_configs={f"fs.azure.account.key.{azure_sa}.blob.core.windows.net": azure_key},
+            extra_configs={azure_sa_url: azure_key},
         )
 
     return mount_point
