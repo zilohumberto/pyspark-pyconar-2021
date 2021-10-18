@@ -1,12 +1,7 @@
-import os
-import sys
 from airflow import DAG
 from airflow.operators.bash import BashOperator
 from airflow.contrib.operators.databricks_operator import DatabricksSubmitRunOperator
 from airflow.utils.dates import days_ago
-
-base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-sys.path.append(os.path.join(base_dir))
 
 from example_cluster import example_cluster_config
 
