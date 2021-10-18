@@ -1,11 +1,5 @@
 # PySpark PyConAr 2021
 
-
-### Pre requisitos
-    - blob storage
-    - airflow
-    - snowflake
-
 ### Google Collab
 
 - Notebook [PySpark-PyConAr-2021](https://colab.research.google.com/drive/1w2LTuQQUPhQCdqzOYdvfymmpAtbLYPaX?usp=sharing)
