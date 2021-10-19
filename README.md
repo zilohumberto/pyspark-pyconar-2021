@@ -31,7 +31,7 @@ Spotify [Millions Playlist](https://www.kaggle.com/adityak80/spotify-millions-pl
 - [Migrando de pandas a spark](https://aspgems.com/migrando-de-pandas-a-spark-dataframes/)
 - [Managing Spark Partitions with Coalesce and Repartition](https://mrpowers.medium.com/managing-spark-partitions-with-coalesce-and-repartition-4050c57ad5c4)
 - [High Level Overview of Apache Spark](https://betterprogramming.pub/high-level-overview-of-apache-spark-c225a0a162e9)
-- 
+- [Data Analysis with Python and PySparkg](https://datatalks.club/books/20211025-data-analysis-with-python-and-pyspark.html)
 
 ### Agradecimientos
     - Chinmay
